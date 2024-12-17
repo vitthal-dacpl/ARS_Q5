@@ -15,6 +15,7 @@ namespace ArsServer1
         public Form2()
         {
             InitializeComponent();
+            //comment
         }
     }
 }
