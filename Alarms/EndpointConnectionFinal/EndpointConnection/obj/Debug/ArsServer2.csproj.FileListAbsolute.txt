@@ -1,0 +1,415 @@
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\ArsServer2.exe.config
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\ArsServer2.exe
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\ArsServer2.pdb
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\Microsoft.Win32.Primitives.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\netstandard.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.AppContext.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Collections.Concurrent.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Collections.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Collections.NonGeneric.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Collections.Specialized.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.ComponentModel.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.ComponentModel.Primitives.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.ComponentModel.TypeConverter.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Console.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Data.Common.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Diagnostics.Contracts.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Diagnostics.Debug.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Diagnostics.Process.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Diagnostics.StackTrace.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Diagnostics.Tools.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Diagnostics.TraceSource.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Diagnostics.Tracing.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Drawing.Primitives.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Dynamic.Runtime.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Globalization.Calendars.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Globalization.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Globalization.Extensions.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.IO.Compression.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.IO.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.IO.FileSystem.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.IO.FileSystem.Watcher.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.IO.IsolatedStorage.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.IO.MemoryMappedFiles.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.IO.Pipes.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Linq.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Linq.Expressions.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Linq.Parallel.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Linq.Queryable.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Net.Http.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Net.NameResolution.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Net.NetworkInformation.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Net.Ping.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Net.Primitives.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Net.Requests.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Net.Security.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Net.Sockets.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Net.WebHeaderCollection.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Net.WebSockets.Client.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Net.WebSockets.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.ObjectModel.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Reflection.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Reflection.Extensions.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Reflection.Primitives.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Resources.Reader.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Resources.ResourceManager.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Resources.Writer.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Runtime.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Runtime.Extensions.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Runtime.Handles.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Runtime.InteropServices.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Runtime.Numerics.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Runtime.Serialization.Formatters.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Runtime.Serialization.Json.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Runtime.Serialization.Primitives.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Runtime.Serialization.Xml.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Security.Claims.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Security.Cryptography.Csp.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Security.Principal.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Security.SecureString.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Text.Encoding.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Text.Encoding.Extensions.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Text.RegularExpressions.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Threading.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Threading.Overlapped.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Threading.Tasks.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Threading.Tasks.Parallel.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Threading.Thread.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Threading.ThreadPool.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Threading.Timer.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Xml.ReaderWriter.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Xml.XDocument.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Xml.XmlDocument.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Xml.XmlSerializer.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Xml.XPath.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Xml.XPath.XDocument.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\BouncyCastle.Crypto.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\Google.Protobuf.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\Microsoft.Bcl.HashCode.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\Newtonsoft.Json.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Buffers.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Formats.Asn1.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.IO.Pipelines.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Memory.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Numerics.Vectors.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.ValueTuple.dll
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\BouncyCastle.Crypto.xml
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\Google.Protobuf.pdb
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\Google.Protobuf.xml
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\Microsoft.Bcl.HashCode.xml
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\Newtonsoft.Json.xml
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Buffers.xml
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Formats.Asn1.xml
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.IO.Pipelines.xml
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Memory.xml
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Numerics.Vectors.xml
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.ValueTuple.xml
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\obj\Debug\ArsServer2.csproj.AssemblyReference.cache
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\obj\Debug\ArsServer2.exe.config
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\obj\Debug\ArsServer2.Form1.resources
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\obj\Debug\ArsServer2.Login.resources
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\obj\Debug\ArsServer2.Properties.Resources.resources
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\obj\Debug\ArsServer2.csproj.GenerateResource.cache
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\obj\Debug\ArsServer2.csproj.CoreCompileInputs.cache
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\obj\Debug\ArsServer2.csproj.CopyComplete
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\obj\Debug\ArsServer2.exe
+E:\Gandhar_Project\TATA MOTOR\Project_Biw_X4\ARS\Windows App\Alarms\EndpointConnectionFinal\EndpointConnection\obj\Debug\ArsServer2.pdb
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\netstandard.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.AppContext.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Collections.Concurrent.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Collections.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Collections.NonGeneric.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Collections.Specialized.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.ComponentModel.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Console.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Data.Common.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Diagnostics.Debug.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Diagnostics.Process.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Diagnostics.Tools.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Drawing.Primitives.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Dynamic.Runtime.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Globalization.Calendars.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Globalization.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Globalization.Extensions.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.IO.Compression.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.IO.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.IO.FileSystem.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.IO.Pipes.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Linq.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Linq.Expressions.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Linq.Parallel.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Linq.Queryable.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Net.Http.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Net.NameResolution.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Net.NetworkInformation.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Net.Ping.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Net.Primitives.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Net.Requests.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Net.Security.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Net.Sockets.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Net.WebSockets.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.ObjectModel.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Reflection.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Reflection.Extensions.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Reflection.Primitives.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Resources.Reader.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Resources.ResourceManager.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Resources.Writer.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Runtime.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Runtime.Extensions.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Runtime.Handles.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Runtime.InteropServices.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Runtime.Numerics.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Security.Claims.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Security.Principal.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Security.SecureString.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Text.Encoding.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Text.RegularExpressions.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Threading.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Threading.Overlapped.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Threading.Tasks.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Threading.Thread.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Threading.ThreadPool.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Threading.Timer.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Xml.XDocument.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Xml.XmlDocument.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Xml.XPath.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\BouncyCastle.Crypto.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\Google.Protobuf.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\Newtonsoft.Json.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Buffers.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Formats.Asn1.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.IO.Pipelines.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Memory.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Numerics.Vectors.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.ValueTuple.dll
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\BouncyCastle.Crypto.xml
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\Google.Protobuf.pdb
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\Google.Protobuf.xml
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\Newtonsoft.Json.xml
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Buffers.xml
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Formats.Asn1.xml
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.IO.Pipelines.xml
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Memory.xml
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Numerics.Vectors.xml
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.ValueTuple.xml
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\obj\Debug\ArsServer2.Form1.resources
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\obj\Debug\ArsServer2.Login.resources
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\obj\Debug\ArsServer2.Properties.Resources.resources
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\obj\Debug\ArsServer2.csproj.GenerateResource.cache
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\obj\Debug\ArsServer2.csproj.CoreCompileInputs.cache
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\obj\Debug\ArsServer2.csproj.CopyComplete
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\arsalr.exe.config
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\arsalr.exe
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\arsalr.pdb
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\obj\Debug\arsalr.exe.config
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\obj\Debug\arsalr.exe
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\obj\Debug\arsalr.pdb
+D:\Vaibhav\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\obj\Debug\ArsServer2.csproj.AssemblyReference.cache
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\arsalr.exe.config
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\arsalr.exe
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\arsalr.pdb
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\Microsoft.Win32.Primitives.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\netstandard.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.AppContext.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Collections.Concurrent.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Collections.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Collections.NonGeneric.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Collections.Specialized.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.ComponentModel.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.ComponentModel.Primitives.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.ComponentModel.TypeConverter.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Console.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Data.Common.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Diagnostics.Contracts.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Diagnostics.Debug.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Diagnostics.Process.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Diagnostics.StackTrace.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Diagnostics.Tools.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Diagnostics.TraceSource.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Diagnostics.Tracing.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Drawing.Primitives.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Dynamic.Runtime.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Globalization.Calendars.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Globalization.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Globalization.Extensions.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.IO.Compression.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.IO.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.IO.FileSystem.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.IO.FileSystem.Watcher.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.IO.IsolatedStorage.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.IO.MemoryMappedFiles.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.IO.Pipes.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Linq.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Linq.Expressions.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Linq.Parallel.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Linq.Queryable.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Net.Http.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Net.NameResolution.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Net.NetworkInformation.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Net.Ping.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Net.Primitives.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Net.Requests.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Net.Security.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Net.Sockets.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Net.WebHeaderCollection.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Net.WebSockets.Client.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Net.WebSockets.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.ObjectModel.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Reflection.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Reflection.Extensions.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Reflection.Primitives.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Resources.Reader.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Resources.ResourceManager.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Resources.Writer.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Runtime.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Runtime.Extensions.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Runtime.Handles.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Runtime.InteropServices.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Runtime.Numerics.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Runtime.Serialization.Formatters.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Runtime.Serialization.Json.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Runtime.Serialization.Primitives.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Runtime.Serialization.Xml.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Security.Claims.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Security.Cryptography.Csp.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Security.Principal.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Security.SecureString.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Text.Encoding.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Text.Encoding.Extensions.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Text.RegularExpressions.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Threading.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Threading.Overlapped.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Threading.Tasks.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Threading.Tasks.Parallel.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Threading.Thread.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Threading.ThreadPool.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Threading.Timer.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Xml.ReaderWriter.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Xml.XDocument.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Xml.XmlDocument.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Xml.XmlSerializer.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Xml.XPath.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Xml.XPath.XDocument.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\BouncyCastle.Crypto.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\Google.Protobuf.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\Microsoft.Bcl.HashCode.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\Newtonsoft.Json.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Buffers.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Formats.Asn1.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.IO.Pipelines.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Memory.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Numerics.Vectors.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.ValueTuple.dll
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\BouncyCastle.Crypto.xml
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\Google.Protobuf.pdb
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\Google.Protobuf.xml
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\Microsoft.Bcl.HashCode.xml
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\Newtonsoft.Json.xml
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Buffers.xml
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Formats.Asn1.xml
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.IO.Pipelines.xml
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Memory.xml
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Numerics.Vectors.xml
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\bin\Debug\System.ValueTuple.xml
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\obj\Debug\ArsServer2.csproj.AssemblyReference.cache
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\obj\Debug\ArsServer2.csproj.SuggestedBindingRedirects.cache
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\obj\Debug\arsalr.exe.config
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\obj\Debug\ArsServer2.Form1.resources
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\obj\Debug\ArsServer2.Login.resources
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\obj\Debug\ArsServer2.Properties.Resources.resources
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\obj\Debug\ArsServer2.csproj.GenerateResource.cache
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\obj\Debug\ArsServer2.csproj.CoreCompileInputs.cache
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\obj\Debug\ArsServer2.csproj.CopyComplete
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\obj\Debug\arsalr.exe
+E:\tataQ5\Services Original\ARS\Alarms\EndpointConnectionFinal\EndpointConnection\obj\Debug\arsalr.pdb
